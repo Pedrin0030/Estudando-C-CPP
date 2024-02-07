@@ -32,7 +32,7 @@ d) Libere a memória alocada.*/
     printf("Digite o tamanho do vetor: ");
     scanf("%d", &tam);
 
-    //mO ponteiro recebe o resultado da função gerada
+    //O ponteiro recebe o resultado da função gerada
     vetor = valorRecebido(tam);
 
     //Laço de repetição para receber os valores que serão alocados
